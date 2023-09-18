@@ -1,0 +1,13 @@
+1. Race Condition: Ini terjadi ketika dua atau lebih proses atau thread berusaha mengakses dan mengubah data bersamaan dalam basis data. Race condition dapat menyebabkan hasil yang tidak konsisten atau konflik dalam data. Ini biasanya terjadi dalam sistem multi-threading dan perlu ditangani dengan synchronisasi dan locking yang tepat.
+
+2. Deadlock: Deadlock adalah situasi di mana dua atau lebih transaksi atau proses dalam basis data terjebak dalam kondisi di mana mereka saling menunggu untuk sumber daya yang sama atau mengunci yang tidak akan pernah dilepaskan. Ini menghentikan kemajuan semua transaksi yang terlibat dan memerlukan tindakan pemecahan masalah untuk mengatasi.
+
+3. Indexing: Indexing adalah proses membuat struktur data tambahan di dalam basis data untuk meningkatkan kinerja pencarian dan pengurutan data. Indexing memungkinkan untuk mengakses data dengan lebih efisien daripada pencarian melalui seluruh dataset.
+
+4. Normalization: Normalisasi adalah proses merancang basis data dengan membagi tabel menjadi tabel yang lebih kecil dan menghubungkannya dengan relasi. Tujuannya adalah mengurangi redudansi data dan meningkatkan efisiensi penyimpanan dan manajemen data. Normalisasi umumnya mencapai tingkat normalisasi seperti 1NF, 2NF, 3NF, dan seterusnya.
+
+5. Replication: Replication adalah proses membuat dan menjaga salinan data dari basis data utama ke beberapa lokasi atau server lain. Ini membantu meningkatkan ketersediaan dan redundansi data, sehingga memungkinkan penggunaan data yang lebih cepat dan pemulihan dari kegagalan.
+
+6. Backup and Restore: Backup adalah proses membuat salinan data dari basis data pada suatu titik waktu tertentu untuk tujuan pemulihan data jika terjadi kegagalan. Restore adalah proses mengembalikan data dari salinan tersebut jika diperlukan, misalnya setelah kegagalan sistem atau penghapusan data yang tidak disengaja.
+
+7. Data Migration: Data migration adalah proses mentransfer data dari satu sistem atau basis data ke sistem atau basis data lain. Ini mungkin diperlukan saat mengganti sistem atau ketika melakukan konsolidasi data dari berbagai sumber.
